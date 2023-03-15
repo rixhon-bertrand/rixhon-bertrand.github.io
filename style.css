@@ -1,0 +1,68 @@
+/* Styles pour le corps de la page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F4F4F4;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Styles pour le titre de la page */
+  h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin: 1rem 0;
+  }
+  
+  /* Styles pour le lien de contact */
+  p {
+    text-align: center;
+    margin: 1rem 0;
+  }
+  
+  /* Styles pour le tableau de livres */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* Styles pour les en-têtes de colonnes */
+  th {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    padding: 0.5rem;
+    text-align: left;
+  }
+  
+  /* Styles pour les cellules de données */
+  td {
+    padding: 0.5rem;
+    border-bottom: 1px solid #dddddd;
+    text-align: left;
+  }
+  
+  /* Styles pour les images de couverture */
+  td img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+  
+  /* Styles pour les liens de contact */
+  a {
+    color: #4CAF50;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  table img {
+  width: 200px;
+}
+
+  
